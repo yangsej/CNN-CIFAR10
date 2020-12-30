@@ -1,0 +1,29 @@
+EPOCHS=1
+BATCH_SIZE=256
+WEIGHT_DECAY=0.001
+LEARNING_RATE=0.009
+Epoch 0
+Accuracy of the network on the 50000 train images: 43 %
+
+Accuracy of plane : 62 %
+Accuracy of   car : 66 %
+Accuracy of  bird : 14 %
+Accuracy of   cat : 34 %
+Accuracy of  deer : 35 %
+Accuracy of   dog : 32 %
+Accuracy of  frog : 49 %
+Accuracy of horse : 48 %
+Accuracy of  ship : 48 %
+Accuracy of truck : 44 %
+Accuracy of the network on the 10000 test images: 43 %
+
+Accuracy of plane : 42 %
+Accuracy of   car : 73 %
+Accuracy of  bird :  0 %
+Accuracy of   cat : 37 %
+Accuracy of  deer : 30 %
+Accuracy of   dog : 28 %
+Accuracy of  frog : 69 %
+Accuracy of horse : 53 %
+Accuracy of  ship : 50 %
+Accuracy of truck : 38 %

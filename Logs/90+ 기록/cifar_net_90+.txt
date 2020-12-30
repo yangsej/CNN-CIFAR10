@@ -1,0 +1,282 @@
+Files already downloaded and verified
+Files already downloaded and verified
+1.6928430993556975
+1.398461034566164
+1.2435624504238367
+Epoch 0
+Accuracy of the network on the 50000 train images: 59 %
+
+Accuracy of plane : 65 %
+Accuracy of   car : 73 %
+Accuracy of  bird : 51 %
+Accuracy of   cat : 38 %
+Accuracy of  deer : 47 %
+Accuracy of   dog : 62 %
+Accuracy of  frog : 62 %
+Accuracy of horse : 53 %
+Accuracy of  ship : 78 %
+Accuracy of truck : 62 %
+Accuracy of the network on the 10000 test images: 58 %
+
+Accuracy of plane : 64 %
+Accuracy of   car : 68 %
+Accuracy of  bird : 48 %
+Accuracy of   cat : 37 %
+Accuracy of  deer : 47 %
+Accuracy of   dog : 58 %
+Accuracy of  frog : 66 %
+Accuracy of horse : 49 %
+Accuracy of  ship : 75 %
+Accuracy of truck : 63 %
+1.1000986233353616
+1.045259363785386
+0.9793466442599893
+Epoch 1
+Accuracy of the network on the 50000 train images: 68 %
+
+Accuracy of plane : 76 %
+Accuracy of   car : 88 %
+Accuracy of  bird : 58 %
+Accuracy of   cat : 61 %
+Accuracy of  deer : 59 %
+Accuracy of   dog : 44 %
+Accuracy of  frog : 69 %
+Accuracy of horse : 78 %
+Accuracy of  ship : 74 %
+Accuracy of truck : 74 %
+Accuracy of the network on the 10000 test images: 66 %
+
+Accuracy of plane : 77 %
+Accuracy of   car : 85 %
+Accuracy of  bird : 55 %
+Accuracy of   cat : 58 %
+Accuracy of  deer : 56 %
+Accuracy of   dog : 40 %
+Accuracy of  frog : 65 %
+Accuracy of horse : 76 %
+Accuracy of  ship : 73 %
+Accuracy of truck : 72 %
+0.9080510542988777
+0.8711934489458799
+0.8436025720909238
+Epoch 2
+Accuracy of the network on the 50000 train images: 72 %
+
+Accuracy of plane : 71 %
+Accuracy of   car : 93 %
+Accuracy of  bird : 61 %
+Accuracy of   cat : 49 %
+Accuracy of  deer : 64 %
+Accuracy of   dog : 60 %
+Accuracy of  frog : 77 %
+Accuracy of horse : 82 %
+Accuracy of  ship : 87 %
+Accuracy of truck : 80 %
+Accuracy of the network on the 10000 test images: 69 %
+
+Accuracy of plane : 69 %
+Accuracy of   car : 87 %
+Accuracy of  bird : 56 %
+Accuracy of   cat : 49 %
+Accuracy of  deer : 61 %
+Accuracy of   dog : 57 %
+Accuracy of  frog : 73 %
+Accuracy of horse : 82 %
+Accuracy of  ship : 83 %
+Accuracy of truck : 75 %
+0.7731875762194395
+0.7771802003011108
+0.76073330437392
+Epoch 3
+Accuracy of the network on the 50000 train images: 76 %
+
+Accuracy of plane : 81 %
+Accuracy of   car : 88 %
+Accuracy of  bird : 63 %
+Accuracy of   cat : 48 %
+Accuracy of  deer : 73 %
+Accuracy of   dog : 70 %
+Accuracy of  frog : 87 %
+Accuracy of horse : 79 %
+Accuracy of  ship : 84 %
+Accuracy of truck : 84 %
+Accuracy of the network on the 10000 test images: 72 %
+
+Accuracy of plane : 78 %
+Accuracy of   car : 83 %
+Accuracy of  bird : 53 %
+Accuracy of   cat : 42 %
+Accuracy of  deer : 70 %
+Accuracy of   dog : 69 %
+Accuracy of  frog : 85 %
+Accuracy of horse : 74 %
+Accuracy of  ship : 81 %
+Accuracy of truck : 83 %
+0.7064686310887337
+0.6889843955934047
+0.6979813112691045
+Epoch 4
+Accuracy of the network on the 50000 train images: 79 %
+
+Accuracy of plane : 78 %
+Accuracy of   car : 89 %
+Accuracy of  bird : 69 %
+Accuracy of   cat : 63 %
+Accuracy of  deer : 77 %
+Accuracy of   dog : 70 %
+Accuracy of  frog : 83 %
+Accuracy of horse : 82 %
+Accuracy of  ship : 89 %
+Accuracy of truck : 89 %
+Accuracy of the network on the 10000 test images: 75 %
+
+Accuracy of plane : 79 %
+Accuracy of   car : 88 %
+Accuracy of  bird : 62 %
+Accuracy of   cat : 56 %
+Accuracy of  deer : 70 %
+Accuracy of   dog : 68 %
+Accuracy of  frog : 82 %
+Accuracy of horse : 78 %
+Accuracy of  ship : 83 %
+Accuracy of truck : 86 %
+0.6342407022863626
+0.6327022134214639
+0.643225148446858
+Epoch 5
+Accuracy of the network on the 50000 train images: 80 %
+
+Accuracy of plane : 85 %
+Accuracy of   car : 89 %
+Accuracy of  bird : 74 %
+Accuracy of   cat : 68 %
+Accuracy of  deer : 79 %
+Accuracy of   dog : 60 %
+Accuracy of  frog : 88 %
+Accuracy of horse : 81 %
+Accuracy of  ship : 87 %
+Accuracy of truck : 90 %
+Accuracy of the network on the 10000 test images: 74 %
+
+Accuracy of plane : 78 %
+Accuracy of   car : 86 %
+Accuracy of  bird : 64 %
+Accuracy of   cat : 60 %
+Accuracy of  deer : 72 %
+Accuracy of   dog : 53 %
+Accuracy of  frog : 84 %
+Accuracy of horse : 79 %
+Accuracy of  ship : 82 %
+Accuracy of truck : 87 %
+0.5805898984372616
+0.5952571545988321
+0.6043316697031259
+Epoch 6
+Accuracy of the network on the 50000 train images: 82 %
+
+Accuracy of plane : 86 %
+Accuracy of   car : 89 %
+Accuracy of  bird : 75 %
+Accuracy of   cat : 72 %
+Accuracy of  deer : 76 %
+Accuracy of   dog : 69 %
+Accuracy of  frog : 86 %
+Accuracy of horse : 86 %
+Accuracy of  ship : 89 %
+Accuracy of truck : 92 %
+Accuracy of the network on the 10000 test images: 75 %
+
+Accuracy of plane : 80 %
+Accuracy of   car : 84 %
+Accuracy of  bird : 63 %
+Accuracy of   cat : 66 %
+Accuracy of  deer : 72 %
+Accuracy of   dog : 63 %
+Accuracy of  frog : 84 %
+Accuracy of horse : 80 %
+Accuracy of  ship : 83 %
+Accuracy of truck : 87 %
+0.5418933382406831
+0.5530413106307387
+0.5642494736090302
+Epoch 7
+Accuracy of the network on the 50000 train images: 83 %
+
+Accuracy of plane : 85 %
+Accuracy of   car : 93 %
+Accuracy of  bird : 70 %
+Accuracy of   cat : 70 %
+Accuracy of  deer : 81 %
+Accuracy of   dog : 70 %
+Accuracy of  frog : 87 %
+Accuracy of horse : 87 %
+Accuracy of  ship : 91 %
+Accuracy of truck : 91 %
+Accuracy of the network on the 10000 test images: 76 %
+
+Accuracy of plane : 78 %
+Accuracy of   car : 88 %
+Accuracy of  bird : 60 %
+Accuracy of   cat : 61 %
+Accuracy of  deer : 70 %
+Accuracy of   dog : 64 %
+Accuracy of  frog : 82 %
+Accuracy of horse : 81 %
+Accuracy of  ship : 87 %
+Accuracy of truck : 87 %
+0.5080776095986367
+0.5125352618098259
+0.5238500437736511
+Epoch 8
+Accuracy of the network on the 50000 train images: 84 %
+
+Accuracy of plane : 86 %
+Accuracy of   car : 94 %
+Accuracy of  bird : 76 %
+Accuracy of   cat : 61 %
+Accuracy of  deer : 85 %
+Accuracy of   dog : 80 %
+Accuracy of  frog : 88 %
+Accuracy of horse : 88 %
+Accuracy of  ship : 89 %
+Accuracy of truck : 91 %
+Accuracy of the network on the 10000 test images: 77 %
+
+Accuracy of plane : 78 %
+Accuracy of   car : 89 %
+Accuracy of  bird : 65 %
+Accuracy of   cat : 53 %
+Accuracy of  deer : 75 %
+Accuracy of   dog : 71 %
+Accuracy of  frog : 83 %
+Accuracy of horse : 81 %
+Accuracy of  ship : 79 %
+Accuracy of truck : 86 %
+0.46161172195523975
+0.4874202598631382
+0.5006132149547339
+Epoch 9
+Accuracy of the network on the 50000 train images: 85 %
+
+Accuracy of plane : 88 %
+Accuracy of   car : 93 %
+Accuracy of  bird : 78 %
+Accuracy of   cat : 74 %
+Accuracy of  deer : 85 %
+Accuracy of   dog : 74 %
+Accuracy of  frog : 87 %
+Accuracy of horse : 91 %
+Accuracy of  ship : 94 %
+Accuracy of truck : 89 %
+Accuracy of the network on the 10000 test images: 77 %
+
+Accuracy of plane : 82 %
+Accuracy of   car : 88 %
+Accuracy of  bird : 63 %
+Accuracy of   cat : 58 %
+Accuracy of  deer : 77 %
+Accuracy of   dog : 66 %
+Accuracy of  frog : 80 %
+Accuracy of horse : 86 %
+Accuracy of  ship : 89 %
+Accuracy of truck : 82 %
