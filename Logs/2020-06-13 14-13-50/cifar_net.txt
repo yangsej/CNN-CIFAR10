@@ -1,0 +1,28 @@
+Epoch 1
+2.057575069941007
+Accuracy : 37 %
+
+Accuracy of plane : 42 %
+Accuracy of   car : 40 %
+Accuracy of  bird : 28 %
+Accuracy of   cat : 25 %
+Accuracy of  deer : 55 %
+Accuracy of   dog :  0 %
+Accuracy of  frog : 11 %
+Accuracy of horse :  0 %
+Accuracy of  ship : 100 %
+Accuracy of truck : 50 %
+
+Accuracy : 37 %
+
+Accuracy of plane :  0 %
+Accuracy of   car :  0 %
+Accuracy of  bird :  0 %
+Accuracy of   cat :  0 %
+Accuracy of  deer :  0 %
+Accuracy of   dog : 100 %
+Accuracy of  frog :  0 %
+Accuracy of horse : 66 %
+Accuracy of  ship :  0 %
+Accuracy of truck : 66 %
+
